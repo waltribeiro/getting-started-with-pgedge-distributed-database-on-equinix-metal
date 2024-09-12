@@ -1,9 +1,9 @@
-### <a name="head1234">NAME</a>
+<!-- ### <a name="head1234">NAME</a>
 <a name="foo">Foo Title</a>
 
 ### <a id="foo4">ID</a>
 <a name="foo">Foo Title</a>
-
+-->
 
 # Getting Started With pgEdge Distributed Database on Equinix Metal
 
@@ -437,5 +437,7 @@ Congrats! You have now built a 3-Node Cluster Distributed Database on Metal. You
 
 Go to https://console.equinix.com to get started with pgEdge, and be sure to check out the official [pgEdge Docs](https://docs.pgedge.com/).
 
+<!-- 
 #### Best answer is in this [link](#head1234)
 <a name="foo4">Foo Title</a>
+-->
