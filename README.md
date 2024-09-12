@@ -1,1 +1,1 @@
-[https://github.com/waltribeiro/getting-started-with-pgedge-distributed-database-on-equinix-metal](https://github.com/waltribeiro/getting-started-with-pgedge-distributed-database-on-equinix-metal)
+[https://github.com/waltribeiro/getting-started-with-pgedge-distributed-database-on-equinix-metal/blob/main/markdown.md](https://github.com/waltribeiro/getting-started-with-pgedge-distributed-database-on-equinix-metal/blob/main/markdown.md)
