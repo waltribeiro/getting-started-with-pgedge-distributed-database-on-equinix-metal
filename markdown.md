@@ -11,7 +11,7 @@
 ## Introduction
 
 
-By the end of this tutorial, you will create a 4-column 2-row database on Equinix Metal:
+By the end of this tutorial, you will create a database table on Equinix Metal:
 
 ![image](images/image-00.png)
 
@@ -325,7 +325,7 @@ https://docs.pgedge.com/platform/installing_pgedge/local_json
 ### Testing Replication
 
 
-In this section, we’ll see how changes to a row on n1 should be replicated to the same row on n2.
+In this section, we’ll see how changes to the n1 row should be replicated to the n2 row.
 
 First, let’s see what the n1 table looks like before we edit it:
 
